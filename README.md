@@ -20,7 +20,15 @@ This project analyzes Zomato restaurant data to identify key trends in ratings, 
 - City-wise restaurant distribution  
 - Online delivery & table booking percentage  
 - Cuisine-wise analysis  
-- Rating and pricing trends  
+- Rating and pricing trends
+
+- ## 📊 Dashboard
+
+### Power BI Dashboard
+![Power BI](Zomato Power BI Dashboard.png)
+
+### Tableau Dashboard
+![Tableau](Zomato Tableau Dashboard.png) 
 
 ## 📂 Files Included
 - Excel Dashboard  
