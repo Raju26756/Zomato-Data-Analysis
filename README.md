@@ -6,6 +6,9 @@
 - Power BI
 - Tableau
 
+## 📊 Zomato Dashboard Preview
+
+![Zomato Dashboard](https://raw.githubusercontent.com/Raju26756/Zomato-Data-Analysis/main/zomato_powerbi_dashboard.png)
 ## 📌 Project Overview
 This project analyzes Zomato restaurant data to identify key trends in ratings, pricing, cuisines, and online delivery patterns.
 
